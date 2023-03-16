@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+h1, nav{
+  text-align: center;
+}
+#featured-property{
+  text-align: center;
+}
+.prg{
+  text-align: center;
+}
+img{
+  width: 900px;
+  height: 800px;
+}
+a{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: aquamarine;
+  text-decoration: none;
+  border-radius: 5px;
+}
+div{
+  float: left;
+  width: 25%;
+  background-color: red;
+  text-align: center;
+}
+
